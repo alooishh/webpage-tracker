@@ -1,0 +1,16 @@
+# Ignore snapshot folder
+html_snapshots/
+
+# Ignore Excel outputs
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env
+
+# macOS junk
+.DS_Store
